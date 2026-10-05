@@ -50,7 +50,6 @@ Predicting sleep debt accurately enables proactive health interventions before c
 
 1. Clone the repository:
    git clone https://github.com/FindSofwarer/Sleep-Debt-Classification-Behavioral-Feature-Analysis.git
-   cd sleep-debt-classification
 
 2. Install requirements:
    pip install pandas numpy scikit-learn matplotlib
