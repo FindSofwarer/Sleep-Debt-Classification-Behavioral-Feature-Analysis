@@ -49,7 +49,7 @@ Predicting sleep debt accurately enables proactive health interventions before c
 ## 🚀 How to Run
 
 1. Clone the repository:
-   git clone https://github.com/YOUR_USERNAME/sleep-debt-classification.git
+   git clone https://github.com/FindSofwarer/Sleep-Debt-Classification-Behavioral-Feature-Analysis.git
    cd sleep-debt-classification
 
 2. Install requirements:
